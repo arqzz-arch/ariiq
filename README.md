@@ -1,0 +1,2 @@
+# ariiq
+latihan 1
